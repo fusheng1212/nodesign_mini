@@ -1,0 +1,135 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "不作设计工作室"
+			}
+		},
+		{
+			"path" : "pages/welcome/welcome",
+			"style" : 
+			{	
+				"navigationStyle": "custom",
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/my/my",
+			"style" : 
+			{
+				"navigationBarTitleText" : "个人中心",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/login/login",
+			"style" : 
+			{
+				"navigationBarTitleText" : "登录",
+				"enablePullDownRefresh" : false
+			}
+		}
+		
+	    ,{
+            "path" : "pages/aboutUs/aboutUs",
+            "style" :                                                                                    
+            {
+				"navigationStyle": "custom",
+                "navigationBarTitleText": "关于我们",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/flowPath/flowPath",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "全部流程",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/files/files",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "文件库",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/files/detail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "文件详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/source/source",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "材料照片",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/project/project",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "往期案例",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/project/detail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "案例详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/questionnaire/questionnaire",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "调查问卷",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/matters/matters",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "协办事项",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/needToDo/needToDo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "交底详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "不作设计工作室",
+		"navigationBarBackgroundColor": "#fff",
+		"backgroundColor": "#fff"
+	},
+	"uniIdRouter": {}
+}

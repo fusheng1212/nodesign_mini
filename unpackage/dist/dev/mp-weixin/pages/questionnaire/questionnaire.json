@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "调查问卷",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

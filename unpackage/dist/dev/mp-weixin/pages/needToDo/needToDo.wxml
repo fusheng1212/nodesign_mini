@@ -1,0 +1,1 @@
+<view class="box data-v-24b593f4"><view class="box-title data-v-24b593f4">未来我们将参与以下任务</view><block wx:for="{{list}}" wx:for-item="t" wx:for-index="i"><view class="box-view flex-center data-v-24b593f4"><view class="{{['box-view-icon','flex-center-center','data-v-24b593f4',(t.check)?'box-view-icon-a':'']}}">✓</view>{{''+t.name+''}}</view></block></view>

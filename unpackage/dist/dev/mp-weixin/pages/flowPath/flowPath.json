@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "全部流程",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tab-bar": "/components/tabBar/new"
+  }
+}

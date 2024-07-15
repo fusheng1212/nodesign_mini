@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "不作设计工作室",
+  "usingComponents": {
+    "tab-bar": "/components/tabBar/new"
+  }
+}

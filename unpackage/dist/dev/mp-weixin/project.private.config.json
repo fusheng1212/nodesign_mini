@@ -1,0 +1,130 @@
+{
+  "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "projectname": "digitalCard",
+  "setting": {
+    "compileHotReLoad": true
+  },
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/my/my",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/login/login",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/aboutUs/aboutUs",
+          "pathName": "pages/aboutUs/aboutUs",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/flowPath/flowPath",
+          "pathName": "pages/flowPath/flowPath",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/files/files",
+          "pathName": "pages/files/files",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/source/source",
+          "pathName": "pages/source/source",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/project/project",
+          "pathName": "pages/project/project",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/project/detail",
+          "pathName": "pages/project/detail",
+          "query": "scene=1",
+          "scene": null
+        },
+        {
+          "name": "pages/questionnaire/questionnaire",
+          "pathName": "pages/questionnaire/questionnaire",
+          "query": "status=1",
+          "scene": null
+        },
+        {
+          "name": "pages/login/login",
+          "pathName": "pages/login/login",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/my/my",
+          "pathName": "pages/my/my",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/questionnaire/questionnaire",
+          "pathName": "pages/questionnaire/questionnaire",
+          "query": "status=19&id=1",
+          "scene": null
+        },
+        {
+          "name": "pages/matters/matters",
+          "pathName": "pages/matters/matters",
+          "query": "status=9",
+          "scene": null
+        },
+        {
+          "name": "pages/matters/matters",
+          "pathName": "pages/matters/matters",
+          "query": "status=9&id=1",
+          "scene": null
+        },
+        {
+          "name": "pages/source/source",
+          "pathName": "pages/source/source",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/flowPath/flowPath",
+          "pathName": "pages/flowPath/flowPath",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/needToDo/needToDo",
+          "pathName": "pages/needToDo/needToDo",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

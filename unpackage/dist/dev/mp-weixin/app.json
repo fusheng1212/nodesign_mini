@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/welcome/welcome",
+    "pages/my/my",
+    "pages/login/login",
+    "pages/aboutUs/aboutUs",
+    "pages/flowPath/flowPath",
+    "pages/files/files",
+    "pages/files/detail",
+    "pages/source/source",
+    "pages/project/project",
+    "pages/project/detail",
+    "pages/questionnaire/questionnaire",
+    "pages/matters/matters",
+    "pages/needToDo/needToDo"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "不作设计工作室",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#fff"
+  },
+  "usingComponents": {}
+}

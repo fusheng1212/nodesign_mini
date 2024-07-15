@@ -1,0 +1,1 @@
+<block wx:if="{{!loading}}"><view class="box data-v-5843593c"><view class="box-top data-v-5843593c">{{''+info.name+''}}</view><image class="box-img data-v-5843593c" src="{{info.url}}" mode="widthFix"></image><view class="tabbar-tip data-v-5843593c">N DESIGN·STUDIO·DALIAN</view></view></block>

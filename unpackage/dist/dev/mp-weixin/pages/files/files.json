@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "文件库",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tab-bar": "/components/tabBar/new"
+  }
+}

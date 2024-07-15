@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "材料照片",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "banner": "/components/banner/banner",
+    "tab-bar": "/components/tabBar/new"
+  }
+}
